@@ -25,6 +25,7 @@ namespace Tema2_CalculadoraBasica
             InitializeComponent();
             calcularButton.IsEnabled = false;
         }
+        // ESTO ES MUY CONFUSO
         private (float?, float?) CompruebaOperandos()
         {
             try
